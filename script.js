@@ -18,7 +18,7 @@ var button2 = document.getElementById("option2")
 button2.addEventListener("click", (e) => {
   var x = document.getElementById("price1")
   x.innerHTML = "$50"
-  var y = document.getEravlementById("price2")
+  var y = document.getElementById("price2")
   y.innerHTML = "$299"
   var freq = document.getElementsByClassName("freq")
   freqC(freq, "/year")
