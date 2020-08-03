@@ -80,6 +80,7 @@ nav {
 }
 
 #home {
+  padding-top: 6rem;
   display: flex;
   justify-content: space-evenly;
 }
